@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/8dyrzqM.png" width="1002" height="236"> 
+# <img src="https://i.imgur.com/8dyrzqM.png" width="668" height="157"> 
 Welcome to **Dencrn's Powerful Installer**, created by Dencrn. This application requires Chocolately. When downloading **Dencrn's Powerful Installer** It will detect if chocolately is installed or not prior to running the application.
 
 **SCREENSHOT COMING SOON**
