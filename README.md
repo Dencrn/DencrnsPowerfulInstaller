@@ -8,7 +8,7 @@ Welcome to **Dencrn's Powerful Installer**, created by Dencrn. This application 
 
 # Essentials to run **Dencrn's Powerful Installer**
 Here are the required programs to make **Dencrn's Powerful Installer** work <br>
-Chocolately: https://chocolatey.org/ <br>
+Coming Soon. Currently experimenting with this <br>
 # Downloads
 STABLE: **COMING SOON** <BR>
 BETA: **COMING SOON**
